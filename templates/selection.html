@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="columns is-centered">
+        <div class="column is-half">
+            <div class="card">
+                <div class="card-content">
+                    <h1 class="title">Choose your criteria</h1>
+                    <h2 class="subtitle">and let's get you accurate recommendations</h2>
+                    
+                    <form method="POST">
+                        {{form.csrf_token}}
+                        <div class="field">
+                            <label class="label">{{ form.region.label }}</label>
+                            <div class="control">
+                                {{ form.region(class='select') }}
+                            </div>
+                        </div>
+                        
+                        <div class="field">
+                            <label class="label">{{form.status.label}}</label>
+                            <div class="control">
+                                {{ form.status(class='select') }}
+                                </div>
+                            </div>
+                        
+                        
+                        <div class="field">
+                            <label class="label">{{form.gender.label}}</label>
+                            <div class="control">
+                                {{ form.gender(class='select') }}
+                                </div>
+                            </div>
+                        
+                        
+                        <div class="field is-grouped">
+                            <div class="control">
+                                <button style="width: 100%;">{{form.submit(class='button is-primary')}}</button>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </form>
+                </div>
+            </div>
+
+{% endblock %}

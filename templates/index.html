@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script src="https://kit.fontawesome.com/b83aefae77.js" crossorigin="anonymous"></script>
+    <title>Highary</title>
+</head>
+
+<body>
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                Highary
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-end">
+                <a class="navbar-item" href="{{url_for('more')}}">More/Advanced</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="section">
+        <div class="container">
+            {% block content %}
+            <div class="columns is-centered">
+                <div class="column is-full">
+                    <h1 class="title is-centered"> Highary <span style="color: red;"><i> ghana</i> </span></h1>
+                    <h2> <b>senior high-school recommendation system</b> </h2>
+                    <hr> 
+
+                    <div class="card">
+                        <header class="card-header">
+                          <p class="card-header-title"><i class="fa-solid fa-circle-info"> </i>what do i do?</p>
+                          <button class="card-header-icon" aria-label="more options">
+                            <span class="icon">
+                              <i class="fas fa-angle-down" aria-hidden="true"></i>
+                            </span>
+                          </button>
+                        </header>
+                        <div class="card-content">
+                            <div class="content" style="padding: 20px;">
+                                
+
+                                    <li style="list-style-type: none;"> <i class="fa-solid fa-1"></i> Choose three options: <b>Location, Gender and Day/Boarding</b> </li>
+                                    <li style="list-style-type: none;"> <i class="fa-solid fa-2"></i> That's it!  </li>
+                                    <li style="list-style-type: none;"> <i class="fa-solid fa-3"></i> The database of schools is updated as of <u>April 2024</u>  </li>
+                                        
+
+
+                                            <footer class="card-footer" style="padding-top: 20px;">
+                                                <a href="{{url_for('selection')}}" class="card-footer-item" style="background-color: aqua;">Get Started</a>
+                                                <!-- <a href="#" class="card-footer-item is-danger">More</a> -->
+            
+            
+            
+            
+            {% endblock %}
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p> {{ current_year }} by edward a. gyan.</p>
+        </div>
+    </footer>
+</body>
+
+</html>

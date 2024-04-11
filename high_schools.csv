@@ -1,0 +1,645 @@
+SCHOOL NAME ,REGION,LOCATION,GENDER,BUSINESS COURSE,TECHINICAL COURSE,AGRICULTURE SCIENCE COURSE,GENERAL ARTS COURSE,VISUAL ARTS COURSE,HOME ECONOMICS COURSE,GENERAL SCIENCE COURSE,NUMBER OF COURSES OFFERED,STATUS
+Ebenezer Senior High ,GREATER ACCRA,Dansoman,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"St. Mary's Senior High, Korle Gonno ",GREATER ACCRA,Korle Gonno,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Wesley Grammar Senior High,GREATER ACCRA,Dansoman,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Holy Trinity Senior High,GREATER ACCRA,High Street-Accra,Mixed,No,No,No,Yes,Yes,Yes,Yes,4,Day
+"St. Thomas Aquinas Senior High, Cantoments",GREATER ACCRA,Cantonments,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day
+Accra Senior High,GREATER ACCRA,Asylum Down,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+"Presby Senior High, Osu",GREATER ACCRA,Osu,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+O'Reilly Senior High,GREATER ACCRA,Okpoi Gomme,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kinbu Senior High/Tech,GREATER ACCRA,Tudu - Accra,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Achimota Senior High,GREATER ACCRA,Achimota,Mixed,No,No,Yes,Yes,Yes,Yes,Yes,5,Day
+"Presby Boys Senior High, Legon",GREATER ACCRA,Legon,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day/Boarding
+Accra Girls Senior High .,GREATER ACCRA,Mamobi,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Nungua Senior High,GREATER ACCRA,Nungua,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Forces Senior High/Tech, Burma ",GREATER ACCRA,Burma Camp,Mixed,No,Yes,No,Yes,Yes,Yes,Yes,5,Day
+"Presby Senior High, Teshie ",GREATER ACCRA,Teshie,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Labone Senior High,GREATER ACCRA,Labone,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Odorgonno Senior High,GREATER ACCRA,Awoshie,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Christian Methodist Senior High,GREATER ACCRA,Aplaku (Weija),Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Kaneshie Senior High/Tech.,GREATER ACCRA,Kaneshie,Mixed,No,Yes,No,Yes,Yes,Yes,Yes,5,Day
+Accra Academy,GREATER ACCRA,Kaneshie,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day/Boarding
+La Presby Senior High,GREATER ACCRA,La Emmaus,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+St. Margaret Mary Snr.High/Tech,GREATER ACCRA,Dansoman,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Accra Wesley Girls High,GREATER ACCRA,Kaneshie,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Adjen Kotoku Senior High,GREATER ACCRA,Adjen Kotoku,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+Tema Senior High ,GREATER ACCRA,Tema Comm 5,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Chemu Senior High/Tech,GREATER ACCRA,Tema Comm 4,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Ashiaman Senior High,GREATER ACCRA,Ashiaman,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Tema Manhean Senior High/Tech,GREATER ACCRA,Tema New Town,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Tema Meth. Day Senior High,GREATER ACCRA,Tema Comm. II,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Presby Senior High, Tema",GREATER ACCRA,Tema,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Our Lady of Mercy Senior High,GREATER ACCRA,Tema Comm 4,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Kpone Comm. Senior High,GREATER ACCRA,Katamanso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ada Senior High,GREATER ACCRA,Ada-Foah,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Ada Senior High/Tech.,GREATER ACCRA,Sege,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Ghanata Senior High,GREATER ACCRA,Dodowa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Osudoku Senior High/Tech.,GREATER ACCRA,Asutsuare,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+Ningo Senior High,GREATER ACCRA,Old Ningo,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Prampram Senior High,GREATER ACCRA,Prampram,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+St. John's Grammar Senior High,GREATER ACCRA,Achimota,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+West Africa Senior High,GREATER ACCRA,Adenta,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ngleshie Amanfro Senior High,GREATER ACCRA,Ngleshie Amanfro,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Amasaman Senior High/Tech,GREATER ACCRA,Amasaman,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day
+Kwabenya Comm. Senior High,GREATER ACCRA,Kwabenya,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Frafraha Comm. Senior High,GREATER ACCRA,Frafraha,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Koforidua Senior High/Tech,EASTERN,Koforidua,Mixed,No,Yes,No,Yes,Yes,No,Yes,4,Day
+"Pope John Snr. High & Min. Sem., Koforidua",EASTERN,Koforidua,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day
+New Juaben Senior High/Com,EASTERN,Koforidua,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Ghana Senior High, Koforidua ",EASTERN,Koforidua,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Oti Boateng Senior High ,EASTERN,Ada/Koforidua,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Oyoko Methodist  Senior High,EASTERN,Oyoko,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Pentecost Senior High,Koforidua",EASTERN,Koforidua,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"S.D.A Senior High, Koforidua",EASTERN,Asokore-Koforidua,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+Suhum Senior High/Tech,EASTERN,Suhum,Mixed,Yes,Yes,No,Yes,Yes,No,Yes,5,Day/Boarding
+"Presby Senior High, Suhum",EASTERN,Suhum,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kraboa-Coaltar Presby Snr. High/Tech.,EASTERN,KraboaCoaltar,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Islamic Girls Senior High,Suhum",EASTERN,Korase-Suhum,Girls,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Aburi Girls Senior High,EASTERN,Aburi,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Adonten Senior High,EASTERN,Aburi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. Martin's Senior High, Nsawam",EASTERN,Nsawam,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Nsawam Senior High,EASTERN,Nsawam,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+"Presby Senior High/Tech, Aburi",EASTERN,Aburi,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Diaspora Girls' Senior High,EASTERN,ObodanNsawam,Girls,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Nifa Senior High,EASTERN,Adukrom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Okuapeman Senior High,EASTERN,Akropong,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Benkum Senior High,EASTERN,Larteh-Akwapim,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Mampong/Akw Snr. High/Tech for the Deaf,EASTERN,Mampong,Mixed,No,Yes,No,Yes,Yes,Yes,No,4,Day
+"Presby  Senior High/Tech, Larteh",EASTERN,Larteh-Kubease,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+H'Mount Sinai Senior High,EASTERN,Akropong,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Presby Senior High/Tech, Adukrom",EASTERN,Adukrom,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day
+"Presby Senior High, Mampong Akwapim ",EASTERN,MampongAkwapim,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Mangoase Senior High,EASTERN,Mangoase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Methodist Girls Senior High, Mamfe",EASTERN,Mamfe,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Asamankese Senior High,EASTERN,Asamankese,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+St. Thomas Senior High/Tech,EASTERN,Asamankese,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Adeiso Presby Senior High,EASTERN,Adeiso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kwaobaah Nyanoa Comm. Senior High,EASTERN,Nyanoa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Oda Senior High,EASTERN,Akim Oda,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Akim Swedru Senior High,EASTERN,Akim Swedru,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"St. Francis Senior High/Tech, Akim Oda",EASTERN,Akim Oda,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Achiase Senior High,EASTERN,Achiase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Attafuah Senior High/Tech,EASTERN,Akim Oda,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Akroso Senior High/Tech,EASTERN,Akroso,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Atweaman Senior High,EASTERN,Akim Manso,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Aperade Senior  High/Tech.,EASTERN,Akim Aperade,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Akokoaso Senior High/Tech,EASTERN,Akim Akokoaso,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day
+New Abirem/Afosu Senior High,EASTERN,New Abirem,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Ayirebi Senior High,EASTERN,Ayirebi,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+"St. Michael's Senior High, Akoase (Nkawkaw)",EASTERN,"Akoase, Nkawkaw",Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Anum Presby Senior High,EASTERN,Anum,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Adjena Senior High/Tech.,EASTERN,Adjena,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+Akwamuman Senior High,EASTERN,AtimpokuAkosombo,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Boso Senior High Technical,EASTERN,Boso,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Apeguso Senior High,EASTERN,Apeguso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Anum Apapam Comm. Day,EASTERN,Anum Apapam,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Donkorkrom Agric Senior High,EASTERN,Donkorkrom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+St. Fidelis Senior High/Tech,EASTERN,Tease,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Mem-Chemfre Comm. Senior High,EASTERN,Mem-Chemfre,Mixed,No,Yes,Yes,Yes,No,Yes,Yes,5,Day
+Maame Krobo Comm. Senior High,EASTERN,Maame Krobo,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Abetifi Presby Senior High,EASTERN,Abetifi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Mpraeso Senior High,EASTERN,Mpraeso,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"St. Peter's Senior High, Nkwatia",EASTERN,Nkwatia,Boys,Yes,No,Yes,Yes,No,No,Yes,4,Day/Boarding
+Nkawkaw Senior High,EASTERN,Nkawkaw,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kwahu Ridge Senior High,EASTERN,Obo-Kwahu,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Nkwatia Presby Senior High/Com,EASTERN,Nkwatia,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+"St. Paul's Senior High, Asakraka Kwahu ",EASTERN,Asakraka-Kwahu,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+"St. Dominic's Senior High/Tech, Pepease",EASTERN,Pepease,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Bepong Senior High School,EASTERN,Bepong,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Kwahu Tafo Senior High,EASTERN,Kwahu Tafo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Fodoa Comm. Senior High,EASTERN,Fodoa Nkawkaw,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Asuom Senior High,EASTERN,Asuom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kade Senior High/Tech.,EASTERN,Kade,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+"St. Rose's Senior High, Akwatia",EASTERN,Akwatia,Girls,No,No,No,Yes,No,Yes,Yes,3,Day/Boarding
+"Salvation Army Senior High, Akim Wenchi",EASTERN,Akim Wenchi,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Tarkrosi Comm. Senior High,EASTERN,Tarkrosi,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+"Presby Senior High, Begoro",EASTERN,Begoro,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Osino Presby Senior High/Tech.,EASTERN,Osino,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+New Nsutam Senior High/Tech,EASTERN,New Nsutam,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+"W.B.M. Zion Senior High, Old Tafo",EASTERN,Old Tafo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Ofori Panin Senior High,EASTERN,Kukurantumi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Abuakwa State College,EASTERN,Kibi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. Stephen's Presby Snr. High/Tech, Asiakwa",EASTERN,Asiakwa,Mixed,Yes,Yes,No,Yes,Yes,Yes,No,5,Day
+Kibi Senior High/Tech,EASTERN,Kibi,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Akim Asafo Senior High,EASTERN,Akim Asafo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kwabeng Anglican Senior High/Tech,EASTERN,Kwabeng,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+"Saviour Senior High, Osiem ",EASTERN,Osiem,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Apedwa Presby Senior High,EASTERN,Apedwa,Mixed,No,No,No,Yes,No,Yes,No,2,Day
+Yilo Krobo Senior High/Com,EASTERN,Somanya,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Klo-Agogo Senior High,EASTERN,Klo-Agogo,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Krobo Girls Senior High,EASTERN,Odumase,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Manya Krobo Senior High,EASTERN,New Nuaso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Asesewa Senior High School,EASTERN,Asesewa,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Akuse Methodist Senior High/Tech,EASTERN,Akuse,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Akro Senior High/Tech,EASTERN,Odumase,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+S.D.A. Senior High. Akim Sekyere,EASTERN,Akim Sekyere,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+"St. Augustine's College, Cape Coast",CENTRAL,Cape Coast,Boys,Yes,No,Yes,Yes,No,No,Yes,4,Day/Boarding
+Adisadel College,CENTRAL,Cape Coast,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day
+"Holy Child School, Cape Coast",CENTRAL,Cape Coast,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Mfantsipim School,CENTRAL,Cape Coast,Boys,No,Yes,No,Yes,Yes,No,Yes,4,Day
+University Practice Senior High,CENTRAL,Cape Coast,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ghana National College,CENTRAL,Cape Coast,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Wesley Girls Senior High, Cape Coast",CENTRAL,Cape Coast,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Oguaa Senior High/Tech,CENTRAL,Cape Coast,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+"Academy of Christ the King, Cape Coast",CENTRAL,Cape Coast,Mixed,Yes,No,No,Yes,Yes ,Yes,Yes,5,Day
+Effutu Senior High/Tech,CENTRAL,Cape Coast,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Edinaman Senior High,CENTRAL,Elmina,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Eguafo-Abrem Senior High,CENTRAL,Eguafo Abirem,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Komenda Senior High/Tech.,CENTRAL,Komenda,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Mfantsiman Girls Senior High,CENTRAL,Saltpond,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Ekumfi T. I. Ahmadiiyya Snr. High,CENTRAL,Esakyir,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Mankessim Senior High/Tech,CENTRAL,Mankesim,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+"Methodist High School,Saltpond",CENTRAL,Saltpond,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Kwegyir Aggrey Senior High,CENTRAL,Anomabo,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Abeadze State College,CENTRAL,Abeadze Domeabra,Mixed,Yes,No,No,Yes,Yes,No,No,3,Day/Boarding
+J.E.A. Mills Senior High,CENTRAL,Otuam,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Aggrey Mem. A.M.E.Zion Snr. High,CENTRAL,Cape Coast,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Aburaman Senior High,CENTRAL,Abura Dunkwa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Abakrampa Senior High/Tech,CENTRAL,Abakrampa,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Moree Comm. Senior High,CENTRAL,Moree,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+Apam Senior High,CENTRAL,Apam,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Potsin T.I. Ahm. Senior High,CENTRAL,Potsin,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Gomoa Senior High/Tech,CENTRAL,Dawurampon,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Mozano Senior High,CENTRAL,Mozano,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+"College of Music Senior, Mozano",CENTRAL,Mozano,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Gomoa Gyaman Senior High,CENTRAL,Gomoa Gyaman,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Winneba Senior High,CENTRAL,Winneba,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Senya Senior High,CENTRAL,Senya,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Obrachire Senior High/Tech,CENTRAL,Obrakyere,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Awutu Winton Senior High,CENTRAL,Awutu ,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Fettehman Senior High ,CENTRAL,Gomoa Fetteh,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Awutu Bawjiase Comm. Senior High,CENTRAL,Bawjiase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Odupong Comm. Day School,CENTRAL,Odupong-Kasoa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Mando Senior High/Tech. ,CENTRAL,Mando,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Bisease Senior High/Com,CENTRAL,Bisease,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day/Boarding
+Enyan Denkyira Senior High,CENTRAL,Denkyira,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+Enyan Maim Comm. Day School,CENTRAL,Enyan Maim ,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Breman Asikuma Senior High,CENTRAL,Breman Asikuma,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Odoben Senior High,CENTRAL,Odoben,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Brakwa Senior High/Tech,CENTRAL,Brakwa,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+Nyakrom Senior High Tech,CENTRAL,Nyakrom,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Swedru Sch. Of Business,CENTRAL,Swedru,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Nsaba Presby Senior High,CENTRAL,Nsaba,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day/Boarding
+Kwanyako Senior High ,CENTRAL,Kwanyako,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Swedru Senior High,CENTRAL,Swedru,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Siddiq Senior High Sch.,CENTRAL,Agona Nyakrom,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Agona Namonwora Comm.Senior High,CENTRAL,Agona Namonwora,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Agona Fankobaa Senior High,CENTRAL,Agona Fankobaa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Boa-Amponsem Senior High,CENTRAL,Dunkwa-On-Offin,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Dunkwa Senior High/Tech,CENTRAL,Dunkwa-on-Offin,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Diaso Senior High ,CENTRAL,Diaso,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Ayanfuri Senior High,CENTRAL,Ayanfuri,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Twifo Praso Senior High,CENTRAL,Twifo Praso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Jukwa Senior High,CENTRAL,Jukwa,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Twifo Hemang Senior High/Tech,CENTRAL,Heman,Mixed,Yes,Yes,No,Yes,No,Yes,No,4,Day/Boarding
+Assin Manso Senior High,CENTRAL,Assin Manso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Obiri Yeboah Senior High/Technical,CENTRAL,Assin Fosu,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Nyankumase Ahenkro Snr. High,CENTRAL,Nyankumase Ahenkro,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Assin North Senior High/Tech,CENTRAL,Assin Asempaneye,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Adankwaman Senior High,CENTRAL,Assin Darmang,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Assin Nsuta Agric. Senior High,CENTRAL,Assin Nsuta,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Assin State College,CENTRAL,Assin Bereku,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Gyaase Community Senior High,CENTRAL,Assin-Akonfudi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Takoradi Senior High,WESTERN,Tanokrom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Sekondi College ,WESTERN,Sekondi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Archbishop Porter Girls Snr.High .,WESTERN,Sekondi,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Ghana Senior High/Tech,WESTERN,Takoradi,Boys,No,Yes,No,Yes,No,No,Yes,3,Day/Boarding
+Fijai Senior High,WESTERN,Sekondi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Ahantaman Girls' Senior High,WESTERN,Sekondi-Ketan,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"St. John's Senior High, Sekondi",WESTERN,Sekondi,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day/Boarding
+Bompeh Senior High./Tech,WESTERN,Takoradi,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Diabene Senior High/Tech,WESTERN,Diabene,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Adiembra Senior High,WESTERN,Diabene,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Shama Senior High,WESTERN,Shama,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Methodist Senior High, Sekondi",WESTERN,Sekondi,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+"St. Mary's Boys' Senior High, Apowa",WESTERN,Apowa,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day/Boarding
+Baidoo Bonso Senior High/Tech,WESTERN,Agona Nkwanta,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Sankor Comm. Day School,WESTERN,Sankor,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Nsein Senior High,WESTERN,Nsein,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Nkroful Agric. Senior High,WESTERN,Nkroful,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Esiama Senior High/Tech,WESTERN,Esiama,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Bonzo-Kaku Senior High,WESTERN,Awiebo,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Axim Girls Senior High,WESTERN,Axim,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Uthman Bin Afam SHS,WESTERN,Kamgbunli,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Gwiraman Comm.Senior High,WESTERN,Bamianko,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Half Assini Senior High,WESTERN,Half Assini,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Annor Adjaye Senior High,WESTERN,Ezilibo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Asankrangwa Senior High,WESTERN,Asankragwa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Amenfiman Senior High,WESTERN,Wasa Akropong,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Asankrangwa Senior High/Tech,WESTERN,Asankragwa,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Manso-Amenfi Comm. Day School,WESTERN,Manso-Amenfi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Sefwi-Wiawso Senior High,WESTERN NORTH,Sefwi-Wiawso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Sefwi-Wiawso Senior High/Tech,WESTERN NORTH,Sefwi-Wiawso,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Asawinso Senior High,WESTERN NORTH,Asawinso,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Akontombra Senior High ,WESTERN NORTH,Akontombra,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+"St. Joseph Senior High, Sefwi Wiawso",WESTERN NORTH,Sefwi Wiawso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Nsawora Edumafa Comm. Senior High School,WESTERN,Nsawora Edumafa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Bibiani Senior High/Tech.,WESTERN NORTH,Bibiani,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Sefwi Bekwai Senior High,WESTERN NORTH,Sefwi Bekwai,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Queens Girls' Senior High, Sefwi Awhiaso",WESTERN NORTH,Sefwi Awhiaso,Girls,Yes,No,Yes,Yes,No,Yes,No,4,Day/Boarding
+Chirano Comm. Day School,WESTERN NORTH,Chirano,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Juaboso Senior High,WESTERN NORTH,Juaboso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Bia Senior High/Tech,WESTERN NORTH,Debiso Essiam,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Bodi Senior High,WESTERN NORTH,Bodi,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Adjoafua Comm. Senior High,WESTERN NORTH,Adjoafua,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Huni Valley Senior High,WESTERN,Huni Vallley,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+"St. Augustine's Senior High, Bogoso",WESTERN,Bogoso,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Fiaseman Senior High,WESTERN,Bankyim Tarkwa*,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Tarkwa Senior High,WESTERN,Tarkwa,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Prestea Senior High/Tech,WESTERN,Prestea,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Benso Senior High/Tech,WESTERN,Benso,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+Nana Brentu Senior High/Tech,WESTERN NORTH,Enchi,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Dadieso Senior High,WESTERN NORTH,Dadieso,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Daboase Senior High/Tech,WESTERN,Daboase,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Mpohor Senior High,WESTERN,Mpohor,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Asanteman Senior High,ASHANTI,Bantama,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"St. Louis Senior High, Kumasi",ASHANTI,Oduom-Kumasi,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Kumasi Girls Senior High,ASHANTI,Abrepo,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"T. I. Ahmadiyya Senior High , Kumasi",ASHANTI,Kumasi - Stadium ,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kumasi Academy,ASHANTI,Asokore Mampong,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Osei Kyeretwie Senior High,ASHANTI,Old Tafo - Kumasi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Anglican Senior High, Kumasi",ASHANTI,Asem-Kumasi,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Prempeh College,ASHANTI,Sofoline-Kumasi,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day
+KNUST Senior High,ASHANTI,KNUST,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Opoku Ware Senior High,ASHANTI,Santasi-Kumasi,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day
+Kumasi Senior High,ASHANTI,Gyinyase-Kumasi,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day
+Kumasi Senior High/Tech,ASHANTI,Patasi-Kumasi,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Armed Forces Senior High/Tech, Kumasi",ASHANTI,Bantama-Kumasi,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Kumasi Wesley Girls High Sch,ASHANTI,Old Tafo -  Kumasi ,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"Adventist  Senior High, Kumasi",ASHANTI,Bantama-Kumasi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Islamic Senior High, Ampabame",ASHANTI,Ampabame,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"St. Hubert Sem/Senior High, ",ASHANTI,Santasi-Kumasi,Boys,Yes,No,No,Yes,No,No,Yes,3,Day
+Serwaah Nyarko Girls' Snr. High,ASHANTI,Dichemso,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Tawheed Senior High.,ASHANTI,Kumasi-Akwatia Line,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Sakafia Islamic Senior High,ASHANTI,Sawaba,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"Pentecost Senior High, Kumasi",ASHANTI,"Breman West, Kumasi",Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+"Al-Azariya Islamic Snr. High, ",ASHANTI,"Old Tafo, Kumasi",Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+"Uthmaniya Senior High, Tafo",ASHANTI,Tafo,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Ofoase Kokoben Senior High,ASHANTI,Ofoase Kokobin ,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+"Nuru-Ameen Islamic Senior High, Asewase",ASHANTI,Asewase,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Agric Nzema Senior High, Kumasi",ASHANTI,"Kumasi, Agric Nzema",Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Parkoso Comm. Senior High,ASHANTI,Parkoso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Yaa Asantewaa Girls Senior High .,ASHANTI,Tanoso-Kumasi,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Toase Senior High,ASHANTI,Toase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"Osei Tutu Senior High, Akropong",ASHANTI,Akropong,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day/Boarding
+Nkawie Senior High/Tech,ASHANTI,Nkawie,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Mpasatia Senior High/Tech,ASHANTI,Mpasatia,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Nyinahin Cath. Senior High,ASHANTI,Nyinahin,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Barekese Senior High,ASHANTI,Barekese,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Atwima Kwanwoma Snr High/Tech,ASHANTI,Trede,Mixed,Yes,Yes,No,Yes,Yes,Yes,No,5,Day/Boarding
+Adobewora Comm. Senior High,ASHANTI,Adobewora,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kwanwoma Senior High/Tech,ASHANTI,Adum Kwanwoma,Mixed,Yes,Yes,No,Yes,Yes,No,No,4,Day
+"S.D.A. Senior High, Bekwai",ASHANTI,Bekwai,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Oppong Mem. Senior High,ASHANTI,Kokofu,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Jacobu Senior High/Tech.,ASHANTI,Jacobu,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. Joseph Senior High/Tech, Ahwiren",ASHANTI,Ahwiren,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Bosome Senior High/Tech.,ASHANTI,Asiwa,Mixed,Yes,Yes,No,Yes,No,Yes,Yes,5,Day/Boarding
+"Wesley High School, Bekwai",ASHANTI,Bekwai,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Denyaseman Cath.Senior High,ASHANTI,Poano,Mixed,Yes,No,Yes,Yes,Yes,No,No,4,Day
+Tweapease Senior High School,ASHANTI,Tweapease,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+Mansoman Senior High,ASHANTI,Manso Atwere,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Esaase Bontefufuo Snr. High/Tech.,ASHANTI,Esaase Bontefufuo,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Manso-Adubia Senior High,ASHANTI,Adubia,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Nsutaman Cath. Senior High,ASHANTI,Nsuta,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. Monica's Senior High, Mampong ",ASHANTI,Mampong,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Amaniampong Senior High,ASHANTI,Mampong,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"St. Joseph Sem/Senior High, Mampong",ASHANTI,Mampong,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"Presby Senior High/Tech, Kwamang",ASHANTI,Kwamang,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+Ghana Muslim Mission Senior High,ASHANTI,Beposo,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Okomfo Anokye Senior High,ASHANTI,Wiamoase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"S.D.A. Senior High, Agona",ASHANTI,Agona,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Konadu Yiadom Catholic Senior High,ASHANTI,Asamang,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Otumfuo Osei Tutu II College,ASHANTI,Tetrem,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Adu Gyamfi Senior High,ASHANTI,Jamasi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Agona Senior High/Tech,ASHANTI,Agona,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Kofiase Adventist Senior High/Tech.,ASHANTI,Kofiase,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Opoku Agyeman Senior High/Tech,ASHANTI,Apaah,Mixed,No,Yes,No,Yes,No,Yes,No,3,Day
+Afigyaman Senior High School,ASHANTI,Kyekyewere,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+Antoa Senior High,ASHANTI,Antoa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Simms Senior High/Com.,ASHANTI,Fawoade,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Adanwomase Senior High,ASHANTI,Adanwomase,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Aduman Senior High,ASHANTI,Aduman,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kofi Adjei Senior High/Tech,ASHANTI,Bampenase,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Gyaama Pensan Senior High/Tech,ASHANTI,Aboaso-Ashanti,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+"Adventist Girls Senior High, Ntonso",ASHANTI,Ntonso,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"St. Michael's Senior High, Ahenkro",ASHANTI,Ahenkro,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Dwamena Akenten Senior High,ASHANTI,Offinso,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Akumadan Senior High,ASHANTI,Akumadan,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Namong Senior High/Tech,ASHANTI,Namong,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+"St. Jerome Senior High, Abofour",ASHANTI,Abofour,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Nkenkansu Community Senior High,ASHANTI,Nkenkansu,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+Asuoso Comm. Senior High,ASHANTI,Asuoso,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Ejuraman Anglican Senior High,ASHANTI,Ejura,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Sekyedumase Senior High/Tech,ASHANTI,Sekyedumase,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Bankoman Senior High,ASHANTI,Banko,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Akwesi Awobaa Senior High,ASHANTI,Anyinasu,Mixed,Yes,Yes,No,Yes,No,No,No,3,Day
+Agogo State College,ASHANTI,Agogo,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Konongo Odumase Senior High .,ASHANTI,Odumase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Collins Senior High/Commercial, Agogo",ASHANTI,Agogo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Owerriman Senior High,ASHANTI,Domeabra,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Juaso Senior High/Tech,ASHANTI,Juaso,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Bompata Presby Senior High,ASHANTI,Bompata,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Ofoase Senior High/Tech,ASHANTI,Ofoase,Mixed,No,Yes,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Banka Comm. Senior High,ASHANTI,Banka,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Dompoase Senior High,ASHANTI,Dompoase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Obuasi Senior High/Tech,ASHANTI,Obuasi,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Fomena T.I. Ahmad Senior High,ASHANTI,Fomena,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"Christ the King Cath., Obuasi",ASHANTI,Obuasi,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Akrofuom Senior High/Tech,ASHANTI,Akrofuom,Mixed,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Asare Bediako Senior High .,ASHANTI,Akrokerri,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+New Edubiase Senior High,ASHANTI,New Edubiase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Bodwesango Senior High,ASHANTI,Bodwesango,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Tepa Senior High ,ASHANTI,Tepa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Maabang Senior High/Tech,ASHANTI,Maabang,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Mankranso Senior High,ASHANTI,Mankranso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Adugyama Comm. Senior High,ASHANTI,Adugyama,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ejisuman Senior High,ASHANTI,Ejisu,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Jachie Pramso Senior High,ASHANTI,Jachie Pramso,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Juaben Senior High,ASHANTI,Juaben,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Ejisu Senior High/Tech,ASHANTI,Ejisu,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Bonwire Senior High/Tech,ASHANTI,Bonwire,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Achinakrom Senior High,ASHANTI,Achinakrom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+St. George's Senior High Tech.,ASHANTI,Kuntanase,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+St. Sebastian Cath. Senior High,ASHANTI,Adumasa,Mixed,No,No,Yes,Yes,No,No,No,2,Day
+Bosomtwe Oyoko Comm. Senior High,ASHANTI,Bosomtwe Oyoko,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Osei Adutwum Senior High,ASHANTI,Jachie,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Afua Kobi Ampem Girls' Senior High,ASHANTI,Trabuom,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Beposo Senior High ,ASHANTI,Beposo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"Wesley Senior High, Konongo .",ASHANTI,Konongo,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"St. Mary's Girl's Senior High, Konongo",ASHANTI,Konongo,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Effiduase Senior High/Com ,ASHANTI,Effiduase,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Tweneboa Kodua Senior High,ASHANTI,Kumawu,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"T. I. Ahmadiyya Girl's Senior High, Asokore",ASHANTI,Asokore ,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Dadease Agric Senior High,ASHANTI,Dadease,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Tijjaniya Senior High ,ASHANTI,Asokore ,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Effiduase Senior High/Tech,ASHANTI,Effiduase,Mixed,No,Yes,No,Yes,Yes,Yes,No,4,Day
+Bodomase Senior High/Tech,ASHANTI,Bodomase,Mixed,Yes,Yes,No,Yes,No,No,No,3,Day
+Twene Amanfo Senior High/Tech.,BRONG AHAFO,Sunyani,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day
+Chiraa Senior High,BRONG AHAFO,Chiraa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Odomaseman Senior High,BRONG AHAFO,Odomase,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Sunyani Senior High,BRONG AHAFO,Sunyani,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"Sacred Heart Senior High, Nsoatre",BRONG AHAFO,Nsoatre,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. James Sem & Senior High, Abesim",BRONG AHAFO,Abesim,Boys,Yes,No,No,Yes,No,No,Yes,3,Day
+"Notre Dame Girls Senior High, Sunyani",BRONG AHAFO,Sunyani,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+"S.D.A Senior High, Sunyani",BRONG AHAFO,Sunyani,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+Bechem Presby Senior High,AHAFO,Bechem,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Samuel Otu Presby Senior High.,AHAFO,Techimantia,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Serwaa Kesse Girls Senior High,AHAFO,Duayaw Nkwanta,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Bomaa Comm. Senior High,AHAFO,Bomaa,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Boakye Tromo Senior High/Tech,AHAFO,Duayaw Nkwanta,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Derma Comm. Day School,AHAFO,Derma,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Yamfo Anglican Senior High School,AHAFO,Yamfo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Berekum Senior High,BRONG AHAFO,Berekum ,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Jinijini Senior High,BRONG AHAFO,Jinijini,Mixed,No,No,Yes,Yes,Yes,Yes,Yes,5,Day/Boarding
+Berekum Presby Senior High,BRONG AHAFO,Berekum ,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+"Methodist Senior High/Tech.,Biadan",BRONG AHAFO,Biadan,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+"St. Augustine Senior High, Nsapor-",BRONG AHAFO,Nsapor-Berekum,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+Yeji Senior High/Tech,BONO EAST,Yeji,Mixed,Yes,Yes,No,Yes,No,Yes,Yes,5,Day
+Atebubu Senior High,BONO EAST,Atebubu,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Prang Senior High,BONO EAST,Prang,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Amanten Senior High,BONO EAST,Amanten,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Abeaseman Comm. Day Senior High,BONO EAST,Abease,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Drobo Senior High,BRONG AHAFO,Drobo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Nafana Senior High,BRONG AHAFO,Sampa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Sumaman Senior High,BRONG AHAFO,Suma-Ahenkro,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Goka Senior High/Tech.,BRONG AHAFO,Goka,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Our Lady of Providence Senior High,BRONG AHAFO,Kwasi Buokrom,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day/Boarding
+Diamono Senior High Sch.,BRONG AHAFO,Duadaso No.2,Mixed,Yes,No,No,Yes,No,No,Yes,3,Day
+Duadaso No. 1 Senior High/Tech.,BRONG AHAFO,Duadaso,Mixed,Yes,Yes,No,Yes,No,No,No,3,Day
+"St. Ann's Girls Senior High, Sampa",BRONG AHAFO,Sampa,Girls,No,No,No,Yes,No,Yes,No,2,Day
+Wenchi Meth. Senior High,BRONG AHAFO,Wenchi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Badu Senior High/Tech.,BRONG AHAFO,Badu/Wenchi,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Koase Senior High/Tech,BRONG AHAFO,Koase/Wenchi,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Nkoranman Senior High,BRONG AHAFO,Seikwa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Menji Senior High,BRONG AHAFO,Menji,Mixed,Yes,No,Yes,Yes,Yes,No,No,4,Day
+Istiquaama Snr. High,BRONG AHAFO,Wenchi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Nsawkaw State Senior High,BRONG AHAFO,Nsawkaw,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Bandaman Senior High,BRONG AHAFO,Banda Ahenkro,Mixed,Yes,Yes,No,Yes,No,No,No,3,Day
+Nkyeraa Senior High Sch.,BRONG AHAFO,Nchiraa,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+New Longoro Comm.School (Dega),BONO EAST,New Longoro,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Techiman Senior High,BONO EAST,Techiman,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Ameyaw Akumfi Senior High/Tech.,BONO EAST,Aworowa,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Tuobodom Senior High/Tech,BONO EAST,Tuobodom,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+"St. Francis Seminary/Senior High, Buoyem",BONO EAST,Buoyem,Boys,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Guakro Effah Senior High,BONO EAST,Offuman,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+"Our Lady of Mount Carmel Girls Senior High, Techiman",BONO EAST,Techiman,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day/Boarding
+Yeboah Asuamah Senior High,BONO EAST,Nsuta,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Kesse Basahyia Senior High,BONO EAST,Techiman Oforikrom,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Gyarko Comm. Day Senior High,BONO EAST,Techiman,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kwarteng Ankomah Senior High,BONO EAST,Tanoso-Techmian,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Kintampo Senior High,BONO EAST,Kintampo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Jema Senior High,BONO EAST,Jema,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Krobo Comm.Senior High,BONO EAST,Krobo,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Nkoranza Senior High/Tech,BONO EAST,Nkoranza,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Busunya Senior High ,BONO EAST,Busunya,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Osei Bonsu Senior High,BONO EAST,Yefri,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kwabre Senior High,BONO EAST,Akuma,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Dormaa Senior High,BRONG AHAFO,Dormaa Ahenkro,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Wamanafo Senior High/Tech,BRONG AHAFO,Wamanafo,Mixed,Yes,Yes,Yes,Yes,No,No,No,4,Day/Boarding
+Mansen Senior High Sch.,BRONG AHAFO,Wamfie,Mixed,Yes,No,Yes,Yes,Yes,No,No,4,Day
+Nkrankwanta Comm Senior High,BRONG AHAFO,Nkrankwanta,Mixed,Yes,Yes,Yes,Yes,No,No,Yes,5,Day/Boarding
+"Salvation Army Senior High, Aboabo Dormaa",BRONG AHAFO,Aboabo-Dormaa,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Kwame Danso Senior High/Tech,BONO EAST,Kwame Danso,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Kajaji Senior High,BONO EAST,Kajaji,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+"OLA Girls Senior High, Kenyasi ",AHAFO,Kenyasi,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Acherensua Senior High,AHAFO,Acherensua,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Hwidiem Senior High,AHAFO,Hwidiem,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Gyamfi Kumanini Senior High/Tech,AHAFO,Wamahinso,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Mim Senior High ,AHAFO,Mim,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ahafoman Senior High/Tech,AHAFO,Goaso,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Kukuom Agric Senior High,AHAFO,Kukuom,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Sankore Senior High,AHAFO,Sankore,Mixed,Yes,No,No,Yes,Yes,No,No,3,Day
+"OLA Girls Senior High, Ho",VOLTA,Ho,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+"Mawuli School, Ho",VOLTA,Ho,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Avatime Senior High,VOLTA,Vane,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Awudome Senior High .,VOLTA,Tsito,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kpedze Senior High,VOLTA,Kpedze,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+E.P.C. Mawuko Girls Senior High,VOLTA,Ho,Girls,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Taviefe Comm. Senior High,VOLTA,Taviefe,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day/Boarding
+Adaklu Senior High,VOLTA,Adaklu,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Dzolo Senior High,VOLTA,Dzolo,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Tsito Senior High/Tech,VOLTA,Tsito,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Akome Senior High/Tech.,VOLTA,Akome,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Tanyigbe Senior High,VOLTA,Tanyigbe,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Agotime Senior High,VOLTA,Kpetoe,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Abutia Senior High/Tchnical,VOLTA,Abutia,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Sokode Senior High/Tech,VOLTA,Sokode,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Shia Senior HighTechnical,VOLTA,Shia,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Ziope Senior High Sch.,VOLTA,Ziope,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Krachi Senior High,OTI,Kete-Krachi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Kete Krachi Senior High/Tech.,OTI,Kete-Krachi,Mixed,Yes,Yes,Yes,Yes,No,No,No,4,Day
+Oti Senior High/Tech Sch,OTI,Dambai,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Asukawkaw Senior High,OTI,Asukawkaw,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Nchumuruman Comm. Day Senior High,OTI,Chinderi,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Yabram Comm. Day School,OTI,Dambai,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Nkwanta Senior High,OTI,Nkwanta,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Ntruboman Senior High,OTI,Brewaniase,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Kpassa Senior High/Tech,OTI,Kpassa,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Nkwanta Comm.Senior High,OTI,Nkwanta,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Kyabobo Girls Senior High,OTI,Nkwanta,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Akatsi Senior High/Tech,VOLTA,Akatsi,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Ave Senior High,VOLTA,Ave-Dakpa,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Avenor Senior High,VOLTA,Avenorkpeme,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Anlo Senior High,VOLTA,Anloga,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Keta Senior High/Tech .,VOLTA,Keta,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Abor Senior High,VOLTA,Abor,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Keta Business Senior High,VOLTA,Keta,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Zion Senior High,VOLTA,Anloga,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Atiavi Senior High/Tech,VOLTA,Atiavi,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Anlo Afiadenyigba Senior High,VOLTA,Anlo Afiadenyigba,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Anlo Awomefia Senior High,VOLTA,Anyako,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Tsiame Senior High,VOLTA,Tsiame,Mixed,Yes,Yes,No,Yes,No,Yes,No,4,Day
+St. Catherine Girls Senior High,VOLTA,Agbakope,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Volta Senior High School,VOLTA,Dzita-Agbledomi,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+Bishop Herman College,VOLTA,Kpando,Boys,Yes,No,Yes,Yes,Yes,No,Yes,5,Day/Boarding
+Kpando Senior High .,VOLTA,Kpando,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Peki Senior High,VOLTA,Peki,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Anfoega Senior High,VOLTA,Anfoega,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Vakpo Senior High,VOLTA,Vakpo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Vakpo Senior High/Tech,VOLTA,Vakpo,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+Peki Senior High/Technical,VOLTA,Peki,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Kpeve Senior High,VOLTA,Kpeve,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+Tongor Senior High Tech.,VOLTA,Kpeve,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+"St. Paul's Senior High, Denu",VOLTA,Hatsukope/ Denu,Boys,Yes,No,No,Yes,Yes,No,Yes,4,Day/Boarding
+Some Senior High,VOLTA,Agbozume,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Dzodze Penyi Senior High,VOLTA,Dzodze,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Three Town Senior High,VOLTA,Denu,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Klikor Senior High/Tech.,VOLTA,Klikor,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Wovenu Senior High Technical,VOLTA,Tadzewu,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Weta Senior High/Tech.,VOLTA,Weta,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+Afife Senior High Tech.,VOLTA,Afife,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day/Boarding
+Adidome Senior High,VOLTA,Adidome,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Mafi-Kumasi Senior High/Tech,VOLTA,Mafi-Kumasi,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Aveyime Battor Senior High/Tech.,VOLTA,AveyimeBattor,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Mepe St. Kizito Senior High/Tech.,VOLTA,Mepe,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Dofor Senior High,VOLTA,Juapong ,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Battor Senior High,VOLTA,Battor,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Volo Comm. Senior High,VOLTA,Volo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Sogakope Senior High,VOLTA,Sogakope,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Dabala Senior High/Tech.,VOLTA,Dabala ,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Likpe Senior High,VOLTA,Likpe-Mate,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Akpafu Senior High/Tech.,VOLTA,Akpafu,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Agate Comm. Senior High,VOLTA,Agate,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Leklebi Senior High,VOLTA,Leklebi,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+"St. Mary's Sem.& Senior High, Lolobi",VOLTA,Lolobi,Boys,Yes,No,No,Yes,No,No,Yes,3,Day/Boarding
+E. P. Senior High,VOLTA,Hohoe,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Afadjato Senior High/Tech.,VOLTA,Gbledi-Gbogame,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+Alavanyo Senior High/Tech.,VOLTA,Alavanyo-Kpeme,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Ve Comm. Senior High,VOLTA,Ve-Koloenu,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Jim Bourton Mem Agric. Senior High,VOLTA,Logba Adzokoe,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Bueman Senior High .,OTI,Jasikan,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Worawora Senior High,OTI,Worawora,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Nkonya Senior High,OTI,Nkonya-Ahenkro,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Okadjakrom Senior High/Tech.,OTI,Okadjakrom,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Baglo  Ridge Senior High/Tech.,OTI,Baglo,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+Tapaman Senior High/Tech,OTI,Tapa-Amanfrom,Mixed,Yes,Yes,No,Yes,Yes,No,No,4,Day
+Bowiri Comm. Day School,OTI,Bowiri,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+Kadjebi-Asato Senior High,OTI,Kadjeto-Asato,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Dodi-Papase Senior High/Tech,OTI,Dodi Papase,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+Ahamansu Islamic Senior High School,OTI,Ahamansu,Mixed,Yes,No,Yes,Yes,Yes,Yes,No,5,Day
+Tamale Senior High .,NORTHERN,Tamale,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day
+"Ghana Senior High, Tamale",NORTHERN,Tamale,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Northern School of Business,NORTHERN,Tamale,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+"Business Senior High, Tamale",NORTHERN,Tamale,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Kalpohin Senior High,NORTHERN,Tamale,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Vitting Senior High/Tech.,NORTHERN,Tamale,Mixed,No,Yes,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+"St. Charles Senior High, Tamale",NORTHERN,Tamale,Boys,Yes,No,Yes,Yes,No,No,Yes,4,Day/Boarding
+"Islamic Science Senior High, Tamale",NORTHERN,Tamale,Mixed,No,No,Yes,No,No,Yes,Yes,3,Day
+Tamale Girls Senior High ,NORTHERN,Tamale,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day/Boarding
+"Presby Senior High, Tamale",NORTHERN,Tamale,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Anbariya Senior High Sch.,NORTHERN,Tamale,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Damongo Senior High,SAVANNAH,Damongo,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Ndewura Jakpa Senior High/Tech.,SAVANNAH,Damongo,Mixed,No,Yes,Yes,Yes,Yes,Yes,No,5,Day
+Sawla Senior High Sch.,SAVANNAH,Sawla,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Salaga Senior High,SAVANNAH,Salaga,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kpandai Senior High,NORTHERN,Kpandai,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Salaga T.I. Ahmad Senior High,SAVANNAH,Salaga,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Bimbilla Senior High,NORTHERN,Bimbilla,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Wulensi Senior High,NORTHERN,Wulensi,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day/Boarding
+Nalerigu Senior High,NORTH EAST,Nalerigu,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Bunkpurugu Senior High/Tech,NORTH EAST,Bunkupurugu,Mixed,No,Yes,Yes,Yes,No,Yes,No,4,Day
+Nakpanduri Senior High,NORTH EAST,Nakpanduri,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day/Boarding
+Gambaga Girls Senior High,NORTH EAST,Gambaga,Girls,Yes,No,No,Yes,No,Yes,No,3,Day
+Walewale Senior High,NORTH EAST,Walewele,Mixed,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Day/Boarding
+Wulugu Senior High,NORTH EAST,Wulugu,Mixed,No,No,Yes,Yes,No,Yes,No,3,Day/Boarding
+Yagaba Senior High School,NORTH EAST,Yagaba,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Bole Senior High,SAVANNAH,Bole ,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Tuna Senior High/Tech.,SAVANNAH,Tuna,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+St. Anthony of Padua Senior High/Tech,SAVANNAH,Bamboi,Mixed,Yes,Yes,No,Yes,No,Yes,No,4,Day
+Bamboi Comm. Senior High,SAVANNAH,Bamboi,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Yendi Senior High .,NORTHERN,Yendi,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Dagbon State Senior High/Tech,NORTHERN,Yendi,Mixed,No,Yes,Yes,Yes,Yes,Yes,No,5,Day/Boarding
+Sang Comm. Day School,NORTHERN,Sang,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Chereponi Senior High/Tech.,NORTH EAST,Chereponi,Mixed,No,No,Yes,Yes,No,Yes,Yes,4,Day
+Saboba E.P. Senior High,NORTHERN,Saboba,Mixed,No,No,Yes,Yes,No,Yes,Yes,4,Day
+Wapuli Comm. Senior High,NORTHERN,Wapuli,Mixed,No,No,No,Yes,No,Yes,Yes,3,Day
+Gushegu Senior High,NORTHERN,Gushegu,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Zabzugu Senior High,NORTHERN,Zabzugu,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Tatale E. P. Agric Senior High/Tech.,NORTHERN,Tatale,Mixed,No,No,Yes,Yes,No,Yes,No,3,Day
+Tolon Senior High,NORTHERN,Tolon,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Kumbungu Senior High,NORTHERN,Kumbungu,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Savelugu Senior High,NORTHERN,Savelugu,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Pong-Tamale Senior High,NORTHERN,Pong-Tamale,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Karaga Senior High,NORTHERN,Karaga,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Buipe Senior High,SAVANNAH,Buipe,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Daboya Comm. Day School,SAVANNAH,Daboya,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Bawku Senior High ,UPPER EAST,Bawku,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Bawku Senior High/Tech.,UPPER EAST,Bawku,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,No,6,Day
+Tempane Senior High,UPPER EAST,Tempane,Mixed,Yes,No,Yes,Yes,Yes,No,No,4,Day/Boarding
+Garu Comm. Day Senior High,UPPER EAST,Garu,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Zebilla Senior High/Tech,UPPER EAST,Zebilla,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Kusanaba Senior High,UPPER EAST,Kusanaba,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day/Boarding
+Sandema Senior High/Tech.,UPPER EAST,Bilinsa/Sandema,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day/Boarding
+Fumbisi Senior High,UPPER EAST,Fumbisi,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Sandema Senior High,UPPER EAST,Sandema,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kanjaga Comm. Senior High,UPPER EAST,Kanjaga,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Bolga Girls Senior High ,UPPER EAST,Zaare-Bolgatanga,Girls,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Zamse Senior High/Tech,UPPER EAST,Bolgatanga,Mixed,No,Yes,No,Yes,Yes,Yes,Yes,5,Day
+Bolgatanga Senior High ,UPPER EAST,Bolgatanga,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Kongo Senior High,UPPER EAST,Kongo,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Zuarungu Senior High,UPPER EAST,Zuarungu,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day
+Bolga Sherigu Comm. Senior High,UPPER EAST,Bolga,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Gambigo Comm. Day Senior High,UPPER EAST,Gambigo,Mixed,Yes,No,No,Yes,No,No,Yes,3,Day
+Navrongo Senior High ,UPPER EAST,Janania-Navrongo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+O.L.L. Girls Senior High,UPPER EAST,Navrongo,Girls,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Chiana Senior High,UPPER EAST,Chiana,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Awe Senior High/Tech.,UPPER EAST,Navrongo,Mixed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Day/Boarding
+"Notre Dame Sem/ Senior High, Navrongo",UPPER EAST,Navrongo,Boys,No,No,No,Yes,No,No,Yes,2,Day/Boarding
+Sirigu Senior High,UPPER EAST,Sirigu,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+St. John's Integrated Snr. High/Tech,UPPER EAST,Tono,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day/Boarding
+Paga Senior High,UPPER EAST,Paga,Mixed,Yes,No,No,Yes,Yes,Yes,No,4,Day
+Mirigu Community Day Senior High,UPPER EAST,Mirigu,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Nabango Senior High School,UPPER EAST,Nabango,Mixed,Yes,Yes,No,Yes,No,No,No,3,Day
+Bongo Senior High,UPPER EAST,Bongo,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day
+Gowrie Senior High/Tech.,UPPER EAST,Gowrie,Mixed,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Day
+Zorkor Senior High,UPPER EAST,Zorkor,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Binduri Comm. Senior High,UPPER EAST,Binduri,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Wa Senior High/Tech.,UPPER WEST,Wa,Mixed,No,Yes,No,Yes,No,Yes,Yes,4,Day
+Wa Senior High .,UPPER WEST,Wa,Mixed,Yes,No,Yes,Yes,Yes,Yes,Yes,6,Day/Boarding
+Lassie-Tuolu Senior High,UPPER WEST,Lassie,Mixed,No,No,No,Yes,No,Yes,Yes,3,Day/Boarding
+"Islamic Senior High, Wa",UPPER WEST,Wa,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+"T. I. Ahmadiyya Senior High, Wa",UPPER WEST,Wa,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+Funsi Senior High School,UPPER WEST,Funsi,Mixed,Yes,No,No,Yes,No,No,No,2,Day/Boarding
+Northern Star Senior High,UPPER WEST,"Mangu, Wa",Mixed,Yes,No,No,Yes,No,Yes,No,3,Day
+Jamiat Al-Hidaya Islamic Girls,UPPER WEST,Wa,Girls,Yes,No,No,Yes,No,Yes,No,3,Day
+Loggu Comm. Day School,UPPER WEST,Loggu,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Nandom Senior High,UPPER WEST,Nandom,Boys,Yes,No,No,Yes,No,No,Yes,3,Day
+Lawra Senior High ,UPPER WEST,Lawra,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Eremon Senior High/Tech.,UPPER WEST,Eremon,Mixed,No,Yes,Yes,No,No,Yes,No,3,Day
+Ko Senior High,UPPER WEST,Ko-Nandom,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day/Boarding
+Holy Family Senior High,UPPER WEST,Hamile,Mixed,Yes,No,No,Yes,No,Yes,No,3,Day/Boarding
+Birifoh Senior High Sch.,UPPER WEST,Lawra,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+Ullo Senior High,UPPER WEST,Ullo,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+"St. Francis Girls Senior High, Jirapa ",UPPER WEST,Jirapa,Girls,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Piina Senior High,UPPER WEST,Piina,Mixed,Yes,No,Yes,Yes,No,Yes,No,4,Day
+Jirapa Senior High ,UPPER WEST,Jirapa-Town,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day/Boarding
+Kanton Senior High,UPPER WEST,Tumu,Mixed,Yes,No,No,Yes,Yes,Yes,Yes,5,Day
+Tumu Senior High/Tech.,UPPER WEST,Tumu,Mixed,Yes,Yes,Yes,Yes,No,Yes,No,5,Day
+Dr. Hila Liman Senior  High School,UPPER WEST,Gwollu,Mixed,Yes,No,No,Yes,No,No,Yes,3,Day
+Kaleo Senior High/Tech,UPPER WEST,Kaleo,Mixed,No,Yes,Yes,Yes,No,Yes,Yes,5,Day
+Daffiamah Senior High,UPPER WEST,Daffiamah,Mixed,Yes,No,Yes,Yes,No,Yes,Yes,5,Day/Boarding
+"Queen of Peace Senior High, Nadowli",UPPER WEST,Nadowli,Mixed,Yes,No,No,Yes,No,Yes,Yes,4,Day
+Takpo Senior High Sch.,UPPER WEST,Takpo,Mixed,Yes,No,No,Yes,No,No,No,2,Day
+"St. Augustine Senior High/Tech, Saan Charikpong",UPPER WEST,"Saan, Charikpong",Mixed,No,Yes,No,Yes,No,Yes,No,3,Day
+Lambussie Comm. Senior High,UPPER WEST,Lambussie,Mixed,Yes,No,Yes,Yes,No,No,Yes,4,Day
+Janga Senior High/Tech,NORTH EAST,Janga,Mixed,No,Yes,No,Yes,No,Yes,No,3,Day

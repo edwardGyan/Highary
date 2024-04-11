@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <title>Your Recs</title>
+</head>
+
+<body>
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                Highary
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-end">
+                <a class="navbar-item" href="{{url_for('more')}}">More/Advanced</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="section">
+        <div class="container">
+            {% block content %}
+            <div class="columns is-centered">
+                <div class="column is-full">
+                    <h1 class="title is-centered"> <b>your best matches </b> </h1>
+            
+
+            {% for recommendation in recommendations %}
+    <div class="card">
+        <header class="card-header">
+          <p class="card-header-title"></p>
+          <button class="card-header-icon" aria-label="more options">
+            <span class="icon">
+              <i class="fas fa-angle-down" aria-hidden="true"></i>
+            </span>
+          </button>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <ul>
+            
+
+            <li>
+                <ul>
+                    {% for key, value in recommendation.items() %}
+                        <li><b>{{ key }}</b>: {{ value }}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+        
+    </ul>
+            <!-- <a href="#">@bulmaio</a>. <a href="#">#css</a> <a href="#">#responsive</a>
+            <br />
+            <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time> -->
+          </div>
+        </div>
+        <footer class="card-footer">
+            <a href="#" class="card-footer-item">Show More</a>
+            <a href="#" class="card-footer-item is-danger">Report</a>
+            <!-- <a href="#" class="card-footer-item">Delete</a> -->
+          </footer>
+        </div>
+        {% endfor %}
+        <br> 
+        <br>
+        <hr>
+            
+            
+            
+            {% endblock %}
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p> {{ current_year }} by edward a gyan.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
