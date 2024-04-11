@@ -6,7 +6,7 @@ Follow these steps to set up Highary on your local machine:
 
 ### Clone the repository:
 
-`git clone https://github.com/your-username/highary.git`
+`git clone https://github.com/edwardGyan/Highary.git`
 
 Navigate to the project directory: 
 
