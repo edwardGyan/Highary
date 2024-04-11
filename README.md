@@ -26,6 +26,9 @@ macOS/Linux:
 
 `pip install -r requirements.txt`
 
+### Run
+In terminal: `python app.py` or `flask run`
+
 ## Dataset
 Highary processes a dataset of approximately 700 senior high schools using pandas to create recommendations. You can find the dataset here: https://www.kaggle.com/datasets/fritz175/public-high-schools-in-ghana.
 
